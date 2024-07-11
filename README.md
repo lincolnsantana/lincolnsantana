@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👨‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Oi! Sou o Lincoln, sou desenvolvedor full stack atualmente e estou me graduando como Licenciando em Computação pelo IFBA. <br><br>- 🔭 Trabalho como desenvolvedor freelancer, desenvolvendo aplicações em Wordpress, PHP e Javascript.<br>- 📚 Atualmente estou estudando sobre análise de dados e pretendo gradualmente migrar para essa área.</p>
+<h4 align="left">Oi! Sou o Lincoln, sou desenvolvedor full stack atualmente e estou me graduando como Licenciando em Computação pelo IFBA. <br><br>🔭 Trabalho como desenvolvedor freelancer, desenvolvendo aplicações em Wordpress, PHP e Javascript.<br>📚 Atualmente estou estudando sobre análise de dados e pretendo gradualmente migrar para essa área.</h4>
 
 ###
 
