@@ -76,11 +76,13 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="10" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion logo"  />
+  <img width="10" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" height="30" alt="filezilla logo"  />
+
 </div>
 
 ###
